@@ -1,12 +1,12 @@
 {
   "name": "i-feel HA-XS01 Control Panel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "builds": [
     {
       "chipFamily": "ESP32-P4",
       "ota": {
-        "path": "https://github.com/AVATTO-smart/I-Feel-HA-XS01-Control-Panel/releases/download/v0.0.1/firmware.bin",
-        "md5": "c59c895caadb749c2dfebb21bc5e0720"
+        "path": "https://github.com/AVATTO-smart/I-Feel-HA-XS01-Control-Panel/releases/download/v0.0.2/firmware.bin",
+        "md5": "6a7c2ffdfb850b2254f6946c5d4ff7df"
       }
     }
   ]
