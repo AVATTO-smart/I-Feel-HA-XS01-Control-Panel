@@ -6,7 +6,7 @@
       "chipFamily": "ESP32-P4",
       "ota": {
         "path": "https://github.com/AVATTO-smart/I-Feel-HA-XS01-Control-Panel/releases/download/v0.0.2/firmware.ota.bin",
-        "md5": "6a7c2ffdfb850b2254f6946c5d4ff7df"
+        "md5": "a4261e92b157945afab55f3fb3bea8aa"
       }
     }
   ]
